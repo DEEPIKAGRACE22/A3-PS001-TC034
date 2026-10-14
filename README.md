@@ -9,7 +9,6 @@ The project proposes an early-warning detector for ransomware-like file-system a
 The presentation covers the problem, Android constraints, related work, proposed detector, architecture, data flow, and planned implementation phases.
 
 - [AIORI-3 project presentation](A3-PS001-TC034_AIORI3_Presentation.pptx)
-- [Hackathon project structure proposal](Proposed-structure-hackathon.pdf)
 - [Presentation video on YouTube](https://www.youtube.com/watch?v=wFdJ85psiuk)
 
 ## Problem and scope
